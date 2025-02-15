@@ -1,0 +1,141 @@
+.navbar {
+    padding: 1rem 2rem;
+    text-align: center;
+    
+    
+  }
+  .navbar-brand {
+    margin-left: 100px;
+    color: aliceblue;
+  
+        font-family: "Lavishly Yours", serif;
+        font-weight: 900;
+        font-style: normal;
+      
+      
+    
+  }
+  .navbar-nav .nav-item {
+    margin-left: 20px;
+    
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color:white;
+  }
+  .navbar-light .navbar-nav .nav-link:hover {
+    color: #007bff;
+  }
+  .navbar-light .navbar-nav .dropdown-menu {
+    background-color: white;
+    border: none;
+  }
+  .navbar-light .navbar-nav .dropdown-item:hover {
+    background-color: rgb(126, 129, 132);
+  }
+
+ 
+body{
+    background-image: url(129805-cuisine-sweetness-kitchen-desserts-dish-1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+
+
+ .head{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 100px;
+    font-family: "Merienda", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+ }
+
+ .res{
+    
+    text-align: center;
+    color: aliceblue;
+
+ }
+
+ .res .nav-link:hover {
+    color: #007bff;
+ }
+
+ .div2{
+    width: 50%;
+    float: right;
+        
+}
+.div1{
+    width: 50%;
+    float: left;
+    width: 32vw;
+    height:32vw ;
+    border-radius: 50%;
+    padding: 5px;
+    display: flex;
+}
+
+.btn{
+    background-color: black;
+   margin-left: 120px;
+    
+}
+
+.div3{
+    width: 50%;
+    float:left;
+    width: 32vw;
+    height:32vw ;
+    border-radius: 50%;
+    padding: 5px;
+    display: flex;
+}
+  
+.soup{
+    color: aliceblue;
+    text-align: center;
+}
+.hr{
+    color: aliceblue;
+}
+
+.div4{
+    width: 50%;
+    float: right;
+        
+}
+.div5{
+    width: 50%;
+    float: left;
+    width: 32vw;
+    height:32vw ;
+    border-radius: 50%;
+    padding: 5px;
+    display: flex;
+}
+
+
+
+    .form-group{
+    margin-bottom: 15px;
+    color: aliceblue;
+    }
+    .form-group input{
+    width: 100%;
+    font-size: 20px;
+    border-radius: 7px;
+    color: aliceblue;
+    }
+    .registerbtn{
+    width: 100%;
+    background-color: gray;
+    color: gray;
+    border-radius: 7px;
+    font-size: 18px;
+    padding: 7px;
+    justify-content: center;
+   
+    }
